@@ -5,3 +5,5 @@ Second commit from shared repo
 First commit to shared from game repo
 
 Second commit to shared from game repo
+
+Third commit from shared repo. This should conflict
