@@ -1,9 +1,1 @@
-Reset shared code
-
-Gamecommit1
-Gamecommit this will conflict
-GameCommit2 superconflict
-GameCommit2
-
-Subtreecommit1
-subtreecommit2
+A new commit in shared code
