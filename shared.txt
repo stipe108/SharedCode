@@ -9,3 +9,5 @@ More changes to shared.
 Commit from subtree 1
 
 Commit from subtree 2
+
+Commit from shared code 3
