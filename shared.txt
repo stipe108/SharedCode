@@ -7,3 +7,5 @@ Someone else committed to shared.
 More changes to shared.
 
 Commit from subtree 1
+
+Commit from subtree 2
