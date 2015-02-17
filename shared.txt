@@ -13,3 +13,5 @@ Commit from subtree 2
 Commit from shared code 3
 
 Commit from subtree 4
+
+Commit from shared code 5
